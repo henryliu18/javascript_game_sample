@@ -3,4 +3,4 @@
 Hello this is a simple game written by javascript
 
 Control:
-use W S A D up down left right Home End Del PgDn to control characters
+use W S A D Up Down Left Right Home End Del PgDn to move characters
